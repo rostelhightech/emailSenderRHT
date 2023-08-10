@@ -1,7 +1,7 @@
 # emailSenderRHT
 
 # installation
-``` pip install emailsender_rht ``` 
+``` pip install email-sender-rht ``` 
 # Using the EmailSender Class
 
 The `EmailSender` class from the `emailsender_rht.main` package allows you to send emails using the specified information. Here's how you can use it:
