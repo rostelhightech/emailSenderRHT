@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name="emailsender-rht",
+    name="emailsender_rht",
     version="0.1.0",
     description="This package makes it easy to send emails to people.",
     author="Rostel High-Tech",
@@ -12,4 +12,6 @@ setup(
         "smtplib",
         "email",
     ],
+    license='MIT',
+    keywords=['SOME', 'MEANINGFULL', 'KEYWORDS']
 )

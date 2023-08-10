@@ -1,5 +1,5 @@
 import unittest
-from emailSenderRHT.emailsender_rht.main import EmailSender
+from emailSenderRHT.src.emailsender_rht.main import EmailSender
 
 email_from = "email sender"
 sender_password = "password google app"

@@ -1,0 +1,10 @@
+LICENSE
+pyproject.toml
+src/email_sender_rht.egg-info/PKG-INFO
+src/email_sender_rht.egg-info/SOURCES.txt
+src/email_sender_rht.egg-info/dependency_links.txt
+src/email_sender_rht.egg-info/top_level.txt
+src/emailsender_rht/__init__.py
+src/emailsender_rht/main.py
+src/emailsender_rht/setup.py
+test/test_email_sender.py
