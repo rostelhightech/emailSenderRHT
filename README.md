@@ -13,7 +13,7 @@ The `EmailSender` class from the `emailsender_rht.main` package allows you to se
 /*****************************************************
 
 from emailsender_rht.main import EmailSender
-
+print("hello")
 email_sender = EmailSender(
     email_from="sender@example.com",
     sender_password="your_password",
